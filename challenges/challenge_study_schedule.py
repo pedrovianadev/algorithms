@@ -1,11 +1,11 @@
 """
-Liner
+Linter
 """
 
 
 def study_schedule(permanence_period, target_time):
     """
-    Liner
+    Linter
     """
     counter = 0
 
